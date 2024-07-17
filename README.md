@@ -16,15 +16,15 @@
 <hr size="2" width="55%" color="yellow">  
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif"> 
 
-- 👨‍💻 &nbsp;Currently I continue studying self-taught.\
-- 💡 &nbsp;I like to explore new technologies and develop solutions in an optimal way.\
-- 🎓 &nbsp;I am currently delving into creating and coding Games: Unity.\
-- 🌱 &nbsp;I am learning more about Web3, Microservices Based Architecture, Machine Learning.\
-- ✍️ &nbsp;In my free time, I upload content to my YouTube channel.\
-- 💬 &nbsp;Please feel free to contact me with questions or to discuss a project.\
-- ✉️ &nbsp;You can email me at blackclover192002@gmail.com! I will try to respond as soon as possible.\
-- 📄 &nbsp;Check out my [CV](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me.\
-- 😱 &nbsp;I'm open to feedback and suggestions!\
+- 👨‍💻 &nbsp;Currently I continue studying self-taught.
+- 💡 &nbsp;I like to explore new technologies and develop solutions in an optimal way.
+- 🎓 &nbsp;I am currently delving into creating and coding Games: Unity.
+- 🌱 &nbsp;I am learning more about Web3, Microservices Based Architecture, Machine Learning.
+- ✍️ &nbsp;In my free time, I upload content to my YouTube channel.
+- 💬 &nbsp;Please feel free to contact me with questions or to discuss a project.
+- ✉️ &nbsp;You can email me at blackclover192002@gmail.com! I will try to respond as soon as possible.
+- 📄 &nbsp;Check out my [CV](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me.
+- 😱 &nbsp;I'm open to feedback and suggestions!
 <br><br>
 
 ## ☕ Connect with me :
