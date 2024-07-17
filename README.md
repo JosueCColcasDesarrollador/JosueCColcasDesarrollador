@@ -1,6 +1,4 @@
-![Aditya Vikram Singh Banner](https://github.com/JosueCColcasDesarrollador/JosueCColcasDesarrollador/blob/main/Logo.png)
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
+![Aditya Vikram Singh Banner](https://github.com/JosueCColcasDesarrollador/JosueCColcasDesarrollador/blob/main/Portada.png)
 
 ## Hi 👋, I'm SENI0R✠KY0JURO✠DEVEL0PER 👩‍💻
 
