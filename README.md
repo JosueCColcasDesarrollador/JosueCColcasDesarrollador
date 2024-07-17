@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="https://candida-noronha.web.app/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="@DeveloperJosueCastañedaSR"/></a>
-	<a href="mailto:candida.noronha18@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="@DeveloperJosueCastañedaSR"/></a>
-	<a href="https://github.com/Candida18" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="@DeveloperJosueCastañedaSR"/></a>
+	<a href="mailto:blackclover192002@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="@DeveloperJosueCastañedaSR"/></a>
+	<a href="https://github.com/JosueCColcasDesarrollador" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="@DeveloperJosueCastañedaSR"/></a>
 	<a href="https://www.linkedin.com/in/jesús-josué-castañeda-colcas-9a73a5312" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="@DeveloperJosueCastañedaSR"/></a>
 	<a href="https://www.facebook.com/candida.noronha.77" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="@DeveloperJosueCastañedaSRk"/></a>
 	<a href="https://instagram.com/candyyyy__18" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="@DeveloperJosueCastañedaSR"/></a>
