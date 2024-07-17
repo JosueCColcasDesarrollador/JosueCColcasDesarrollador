@@ -6,7 +6,7 @@
   <a href="https://candida-noronha.web.app/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="@DeveloperJosueCastañedaSR"/></a>
 	<a href="mailto:candida.noronha18@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="@DeveloperJosueCastañedaSR"/></a>
 	<a href="https://github.com/Candida18" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="@DeveloperJosueCastañedaSR"/></a>
-	<a href="https://linkedin.com/in/candida-ruth-noronha-b019101ab" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="@DeveloperJosueCastañedaSR"/></a>
+	<a href="https://www.linkedin.com/in/jesús-josué-castañeda-colcas-9a73a5312" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="@DeveloperJosueCastañedaSR"/></a>
 	<a href="https://www.facebook.com/candida.noronha.77" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="@DeveloperJosueCastañedaSRk"/></a>
 	<a href="https://instagram.com/candyyyy__18" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="@DeveloperJosueCastañedaSR"/></a>
 	<a href="https://www.youtube.com/@SENI0R_KY0JURO_DEVEL0PER" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="@DeveloperJosueCastañedaSR"/></a>
@@ -33,7 +33,7 @@
 
 [![@DeveloperJosueCastañedaSR](https://img.icons8.com/fluency/48/000000/instagram-new.png "@DeveloperJosueCastañedaSR")](https://www.instagram.com/anushkawijegoonawardana97/) 
 [![@DeveloperJosueCastañedaSR](https://img.icons8.com/fluency/48/000000/facebook.png "@DeveloperJosueCastañedaSR")](https://www.facebook.com/AnushkaWijegoonawardana97) 
-[![@DeveloperJosueCastañedaSR](https://img.icons8.com/fluency/48/000000/linkedin.png "@DeveloperJosueCastañedaSR")](https://www.linkedin.com/in/anushkawijegoonawardana97/) 
+[![@DeveloperJosueCastañedaSR](https://img.icons8.com/fluency/48/000000/linkedin.png "@DeveloperJosueCastañedaSR")](https://www.linkedin.com/in/jesús-josué-castañeda-colcas-9a73a5312) 
 [![@DeveloperJosueCastañedaSR](https://img.icons8.com/fluency/48/000000/tiktok.png "@DeveloperJosueCastañedaSR")](https://www.linkedin.com/in/anushkawijegoonawardana97/) 
 [![@SENI0R KY0JURO DEVEL0PER](https://img.icons8.com/fluency/48/000000/youtube.png "@SENI0R KY0JURO DEVEL0PER")](https://www.youtube.com/@SENI0R_KY0JURO_DEVEL0PER) 
 [![@+51918625208](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@+51918625208")](tel:+51918625208) 
