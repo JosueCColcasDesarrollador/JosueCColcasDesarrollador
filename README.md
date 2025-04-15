@@ -1,6 +1,6 @@
 ![Aditya Vikram Singh Banner](https://github.com/JosueCColcasDesarrollador/JosueCColcasDesarrollador/blob/main/Portada.png)
 
-## Hi 👋, I'm and Jesus Castañeda 👩‍💻
+## Hi 👋, My name is Jesus Castañeda 👩‍💻
 
 <p align="center">
   <a href="https://candida-noronha.web.app/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="@DeveloperJosueCastañedaSR"/></a>
