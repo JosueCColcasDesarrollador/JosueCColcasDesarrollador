@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://github.com/JosueCColcasDesarrollador/JosueCColcasDesarrollador/blob/main/Portada.png)
+![Aditya Vikram Singh Banner](https://github.com/JosueCColcasDesarrollador/JosueCColcasDesarrollador/blob/main/CASTACODE.jpg)
 
 ## Hi 👋, My name is Jesus Castañeda 👩‍💻
 
